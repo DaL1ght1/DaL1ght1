@@ -244,7 +244,7 @@ graph TD
 
 ## 🤝 Let’s connect
 
-* Portfolio: **[https://dal1ght1.github.io](https://dal1ght1.github.io)**
+* Portfolio: **[https://dal1ght1.github.io/Portfolio/)](https://dal1ght1.github.io/Portfolio/)**
 * LinkedIn: **[https://www.linkedin.com/in/khalil-krifi/](https://www.linkedin.com/in/khalil-krifi/)**
 * Email: **[khalil.krifi@ensi-uma.tn](mailto:khalil.krifi@ensi-uma.tn)**
 
