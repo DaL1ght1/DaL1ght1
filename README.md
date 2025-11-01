@@ -157,15 +157,15 @@
 
 ```mermaid
 flowchart LR
-  UI[Angular UI] --> GW[Spring Cloud Gateway]
-  GW --> US[User Service]
-  GW --> IMS[Image Management]
-  GW --> IAS[Image Analysis (PyTorch + XAI)]
-  GW --> RS[Report Service]
+  UI["Angular UI"] --> GW["Spring Cloud Gateway"]
+  GW --> US["User Service"]
+  GW --> IMS["Image Management"]
+  GW --> IAS["Image Analysis (PyTorch & XAI)"]
+  GW --> RS["Report Service"]
 
-  US -->|auth + JWT| PG[(PostgreSQL)]
-  IMS -->|GridFS| MDB[(MongoDB)]
-  IAS -->|events| KAFKA[(Apache Kafka)]
+  US -- "auth + JWT" --> PG[(PostgreSQL)]
+  IMS -- "GridFS" --> MDB[(MongoDB)]
+  IAS -- "events" --> KAFKA[(Apache Kafka)]
   RS --> MDB
 
   subgraph Observability
@@ -176,7 +176,9 @@ flowchart LR
   IMS --> ZP
   IAS --> ZP
   RS --> ZP
+
 ```
+
 
 </details>
 
