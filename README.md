@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&pause=1000&center=true&vCenter=true&width=900&lines=Software%20Engineering%20Student;Full-stack%20%E2%86%92%20Angular%2FNext.js%20%7C%20Spring%20Boot%2FGraphQL;ML%20%26%20XAI%20%E2%86%92%20PyTorch%2C%20SHAP%2C%20LIME;I%20build%20useful%2C%20production-minded%20projects" alt="Typing introduction" />
 
 <p>
-  <a href="[https://dal1ght1.github.io](https://dal1ght1.github.io/Portfolio/)">
+  <a href="https://dal1ght1.github.io/Portfolio/">
     <img alt="Portfolio"
          src="https://img.shields.io/badge/Portfolio-dal1ght1.github.io-000?logo=vercel&logoColor=white">
   </a>
