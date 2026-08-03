@@ -148,13 +148,8 @@ Enterprise document management platform.
 # GitHub Statistics
 
 <p align="center">
-
-<img height="170"
-     src="https://github-readme-stats-mokf5z33l-dal1ght1s-projects.vercel.app/api?username=DaL1ght1&show_icons=true&theme=transparent"/>
-
-<img height="170"
-     src="https://github-readme-stats-mokf5z33l-dal1ght1s-projects.vercel.app/api/top-langs/?username=DaL1ght1&layout=compact&theme=transparent"/>
-
+  <img height="170" src="https://github-readme-stats-xjof.vercel.app/api?username=DaL1ght1&show_icons=true&theme=transparent" />
+  <img height="170" src="https://github-readme-stats-xjof.vercel.app/api/top-langs/?username=DaL1ght1&layout=compact&theme=transparent" />
 </p>
 
 ---
