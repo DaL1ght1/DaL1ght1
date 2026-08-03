@@ -149,9 +149,11 @@ Enterprise document management platform.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DaL1ght1&show_icons=true&theme=transparent"/>
+<img height="170"
+     src="https://github-readme-stats-mokf5z33l-dal1ght1s-projects.vercel.app/api?username=DaL1ght1&show_icons=true&theme=transparent"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaL1ght1&layout=compact&theme=transparent"/>
+<img height="170"
+     src="https://github-readme-stats-mokf5z33l-dal1ght1s-projects.vercel.app/api/top-langs/?username=DaL1ght1&layout=compact&theme=transparent"/>
 
 </p>
 
