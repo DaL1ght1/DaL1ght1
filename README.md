@@ -30,6 +30,7 @@ Currently looking for Backend / Platform / Cloud Engineering opportunities.
 
 - Java
 - Spring Boot
+- Go
 - Scala
 - Python
 - FastAPI
