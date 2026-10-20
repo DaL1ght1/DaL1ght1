@@ -1,175 +1,78 @@
 <div align="center">
 
-# Khalil Krifi
+<img src="https://capsule-render.vercel.app/api?type=rect&height=160&color=0:0F172A,100:1E293B&text=Khalil%20Krifi&fontColor=F8FAFC&fontSize=48&fontAlignY=45&desc=Backend%20Software%20Engineer%20%7C%20Distributed%20Systems%20%7C%20AI%20Infrastructure&descSize=15&descColor=94A3B8&descAlignY=68" width="100%" alt="Khalil Krifi" />
 
-### Backend Software Engineer • Distributed Systems • AI Infrastructure
+<br/>
 
-Building scalable cloud-native applications with Java, Spring Boot, Kubernetes, Kafka and modern AI systems.
+Building scalable, cloud-native applications with Java, Spring Boot, Kubernetes, Kafka and modern AI systems.
 
-[Portfolio](https://dal1ght1.github.io/Portfolio/) •
-[LinkedIn](https://www.linkedin.com/in/khalil-krifi/) •
-[Email](mailto:khalil.krifi@ensi-uma.tn)
+<br/>
+
+<a href="https://dal1ght1.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/khalil-krifi/"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:khalil.krifi@ensi-uma.tn"><img src="https://img.shields.io/badge/Email-0F172A?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
----
+<br/>
 
-# About Me
+## About
 
-I'm a Computer Science Engineering graduate from ENSI, Tunisia, passionate about backend engineering, distributed systems, cloud-native infrastructure, and AI-powered applications.
+Computer Science Engineering graduate from ENSI, Tunisia, focused on backend engineering, distributed systems, cloud-native infrastructure and AI-powered applications.
 
-I enjoy designing reliable software architectures, building event-driven microservices, deploying production workloads on Kubernetes, and solving complex engineering problems.
+I design reliable software architectures, build event-driven microservices, and deploy production workloads on Kubernetes.
 
-Currently looking for Backend / Platform / Cloud Engineering opportunities.
+**Currently seeking Backend, Platform and Cloud Engineering opportunities.**
 
----
+<br/>
 
-# Core Expertise
+## Technical Expertise
 
-### Backend
+| Domain | Technologies |
+|:--|:--|
+| **Backend** | Java, Spring Boot, Go, Scala, Python, FastAPI, GraphQL |
+| **Distributed Systems** | Apache Kafka, Redis, PostgreSQL, OpenSearch, REST APIs, Event-Driven Architecture |
+| **Cloud Native** | Docker, Kubernetes, GitHub Actions, ArgoCD, Prometheus, Grafana |
+| **AI Systems** | LangGraph, LLM Applications, PyTorch, RAG Pipelines, Semantic Search |
 
-- Java
-- Spring Boot
-- Go
-- Scala
-- Python
-- FastAPI
-- GraphQL
+<br/>
 
-### Distributed Systems
+<div align="center">
 
-- Apache Kafka
-- Redis
-- PostgreSQL
-- OpenSearch
-- REST APIs
-- Event-Driven Architecture
+<img src="https://skillicons.dev/icons?i=java,spring,go,scala,python,fastapi,graphql,kafka,redis,postgres,elasticsearch&theme=dark" alt="Backend and data" />
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,argocd,prometheus,grafana,pytorch&theme=dark" alt="Cloud and AI" />
 
-### Cloud Native
+</div>
 
-- Docker
-- Kubernetes
-- GitHub Actions
-- ArgoCD
-- Prometheus
-- Grafana
+<br/>
 
-### AI Systems
-
-- LangGraph
-- LLM Applications
-- PyTorch
-- RAG Pipelines
-- Semantic Search
-
----
-
-# Featured Projects
-
-## AI-powered Natural Language Query Platform
-
-Production-ready cloud-native platform converting natural language into OpenSearch DSL and PromQL.
-
-### Highlights
-
-- Event-driven microservice architecture
-- Scala + Spring Boot + FastAPI
-- Apache Kafka messaging
-- LangGraph self-correction pipeline
-- Redis semantic cache
-- Kubernetes deployment
-- GitOps with ArgoCD
-- Prometheus & Grafana monitoring
-
----
-
-## SmartStreet Fleet Management
-
-Fleet management platform built with GraphQL Federation and Spring Boot microservices.
-
-### Highlights
-
-- 10 Spring Boot microservices
-- 40+ GraphQL APIs
-- Keycloak authentication
-- Kafka messaging
-- Redis caching
-- Dockerized infrastructure
-- Real-time vehicle tracking
-
----
-
-## Etude.AI
-
-AI-powered study assistant built with Spring Boot and FastAPI.
-
-### Highlights
-
-- Reactive backend
-- AI summarization
-- Circuit Breaker
-- Rate Limiting
-- Kubernetes deployment
-- Prometheus metrics
-- Grafana dashboards
-
----
-
-## FIDS — Signature Detection Platform
-
-Distributed AI platform for signature forgery detection.
-
-### Highlights
-
-- Spring Cloud microservices
-- PyTorch inference
-- Explainable AI
-- Kafka
-- MongoDB
-- Docker
-- Angular frontend
-
----
-
-## Enterprise Content Management
-
-Enterprise document management platform.
-
-### Highlights
-
-- JWT Authentication
-- Elasticsearch
-- File versioning
-- RBAC
-- Swagger
-- PostgreSQL
-
----
-
-# GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats-xjof.vercel.app/api?username=DaL1ght1&show_icons=true&theme=transparent" />
-  <img height="170" src="https://github-readme-stats-xjof.vercel.app/api/top-langs/?username=DaL1ght1&layout=compact&theme=transparent" />
-</p>
-
----
-
-# Currently Interested In
+## Areas of Interest
 
 - Backend Engineering
 - Platform Engineering
 - Distributed Systems
-- Cloud Native Development
+- Cloud-Native Development
 - AI Infrastructure
-- High Performance APIs
+- High-Performance APIs
 
----
+<br/>
 
-# Let's Connect
+## GitHub Activity
 
-📧 khalil.krifi@ensi-uma.tn
+<div align="center">
 
-💼 https://www.linkedin.com/in/khalil-krifi/
+<img height="170" src="https://github-readme-stats-xjof.vercel.app/api?username=DaL1ght1&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats-xjof.vercel.app/api/top-langs/?username=DaL1ght1&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
 
-🌍 https://dal1ght1.github.io/Portfolio/
+</div>
+
+<br/>
+
+## Contact
+
+- Email: [khalil.krifi@ensi-uma.tn](mailto:khalil.krifi@ensi-uma.tn)
+- LinkedIn: [linkedin.com/in/khalil-krifi](https://www.linkedin.com/in/khalil-krifi/)
+- Portfolio: [dal1ght1.github.io/Portfolio](https://dal1ght1.github.io/Portfolio/)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:0F172A,100:1E293B&section=footer" width="100%" alt="" />
